@@ -1,0 +1,7 @@
+*Deve começar com uma letra (maiuscula ou minuscula) ou underscore (_)
+* Nome começa com o número
+* Pode conter letras maiúsculas, minúsculas, números undescore (subliado)
+* Não usar caracteres especias !?\/+-*
+* Letras maiúsculas e minúsculas são diferentes 
+
+OBS: Utilize nomes claros e Objetivos de forma que apenas lendo o nome de variável alguém consiga entender o que será armazenada nela. 
